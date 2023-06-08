@@ -7,6 +7,7 @@ function App() {
   return(
   <div>
     <Navbar />
+    <h1>Ds Catalog</h1>
   </div>
   );
 }
