@@ -1,6 +1,6 @@
-import './styles.css'
-import '@popperjs/core'
-import 'bootstrap/js/dist/collapse'
+import './styles.css';
+import '@popperjs/core';
+import 'bootstrap/js/dist/collapsej';
 
 const Navbar = () => {
   return (
